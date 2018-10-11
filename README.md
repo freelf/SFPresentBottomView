@@ -28,5 +28,5 @@ let bottomView = BottomViewController()
 presentBottom(vc: bottomView)
 ```
 ## 实现效果
-<img src="http://ohg2bgicd.bkt.clouddn.com/PresentBottom.gif" width="375px" />
+[](http://ohg2bgicd.bkt.clouddn.com/PresentBottom.gif)
 
