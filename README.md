@@ -29,6 +29,6 @@ presentBottom(vc: bottomView)
 ```
 ## 实现效果
 
-<img src="http://ohg2bgicd.bkt.clouddn.com/PresentBottom.gif" width="375px" />
+<img src="http://ohg2bgicd.bkt.clouddn.com/PresentBottomDemo.gif" width="375px" />
 
 
